@@ -1,3 +1,6 @@
 open3d
 matplotlib
 jupyterlab
+
+# To debug memory leaks
+psutil
